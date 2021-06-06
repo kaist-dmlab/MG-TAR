@@ -1,5 +1,5 @@
 # MG-TAR
-# Multi-view Graph Convolutional Networks for Traffic Accident Risk Prediction
+**Multi-view Graph Convolutional Networks for Traffic Accident Risk Prediction**
 
 This is the implementation of the paper _submitted_ in IEEE Transactions on Intelligent Transportation Systems
 
