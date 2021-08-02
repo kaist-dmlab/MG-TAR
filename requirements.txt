@@ -1,0 +1,8 @@
+numpy>=1.19.0
+pandas==1.2.4
+scikit-learn==0.24.2
+Shapely==1.6.4.post2
+spacy==2.3.5
+spektral==1.0.6
+tensorflow==2.5.0
+tqdm==4.55.1
