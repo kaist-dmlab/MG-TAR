@@ -32,5 +32,6 @@ For model testing: `Example Run.ipynb`
   volume={},
   number={},
   pages={1-16},
-  doi={10.1109/TITS.2023.3237072}}
+  doi={10.1109/TITS.2023.3237072}
+}
 ```
