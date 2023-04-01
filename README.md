@@ -23,15 +23,15 @@ For model testing: `Example Run.ipynb`
 
 
 ## Citation
-```
+```bibtex
 @article{trirat2023mgtar,
   author={Trirat, Patara and Yoon, Susik and Lee, Jae-Gil},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={{MG-TAR}: Multi-View Graph Convolutional Networks for Traffic Accident Risk Prediction}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-16},
-  doi={10.1109/TITS.2023.3237072}
+  volume={24},
+  number={4},
+  pages={3779-3794},
+  doi={10.1109/TITS.2023.3237072}}
 }
 ```
