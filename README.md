@@ -29,7 +29,7 @@ Due to the continuing colossal socio-economic losses caused by traffic accidents
   
 
 ## Example Run
-For package installation: `pip install -r requirements.txt` 
 
+For **package installation**: `pip install -r requirements.txt` 
 
-For model testing: `Example Run.ipynb`
+For **model testing**: `Example Run.ipynb`
