@@ -2,7 +2,7 @@
 > This is the implementation of a paper _published_ in IEEE Transactions on Intelligent Transportation Systems [[Paper](https://ieeexplore.ieee.org/document/10023949)] 
      
 ## Citation
-```bibtex
+```bibtex 
 @article{trirat2023mgtar,
   author={Trirat, Patara and Yoon, Susik and Lee, Jae-Gil},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
