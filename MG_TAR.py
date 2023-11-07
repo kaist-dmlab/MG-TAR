@@ -116,9 +116,7 @@ def MG_TAR(x_train, y_train, x_val, y_val, configs, length=12, n_steps=6):
     H = Dropout(0.1)(H)
     H = Dense(fc_h, activation='relu')(H)
     H = Dropout(0.1)(H)
-    
-#     H = Dense(fc_h, activation='relu')(H)
-    
+        
     y = Dense(n_steps * n_districts)(H)
     y = Reshape([n_steps, n_districts])(y)
 
