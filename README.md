@@ -14,7 +14,7 @@ This is the implementation of a paper _published_ in IEEE Transactions on Intell
   number={4},
   pages={3779-3794},
   doi={10.1109/TITS.2023.3237072}}
-}  
+}   
 ```     
     
 ## Abstract  
