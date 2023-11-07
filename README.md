@@ -31,3 +31,4 @@ Due to the continuing colossal socio-economic losses caused by traffic accidents
   - If you are interested in the original data, there is a sample file provided [here](https://www.data.go.kr/en/data/15050068/fileData.do) by Korea Transportation Safety Authority.
    
   
+ 
