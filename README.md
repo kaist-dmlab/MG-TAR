@@ -20,7 +20,7 @@ Due to the continuing colossal socio-economic losses caused by traffic accidents
 
 
 ## Example Run
-- For **package installation**: `pip install -r requirements.txt` 
+- **package installation**: `pip install -r requirements.txt` 
 - For **(contextual) graph preprocessing**: `multi-view_graph_construction.ipynb`
 - For **model training-testing demo**: `example_run.ipynb`
 
