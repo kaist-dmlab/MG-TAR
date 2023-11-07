@@ -26,6 +26,7 @@ Due to the continuing colossal socio-economic losses caused by traffic accidents
 - **(Contextual) Graph Preprocessing**: `multi-view_graph_construction.ipynb`
 - **MG-TAR Model Train-Test Demo**: `example_run.ipynb` 
 
+
 ## Note for Driving Record Data
 - **Digital Tachograph (Driving Log) Data**: _cannot be publicly accessible_ due to non-disclosure agreements
   - For demonstration purpose, we partially provide the aggregated number of _classified_ dangerous driving cases in the `datasets` folder. 
