@@ -27,7 +27,6 @@ Due to the continuing colossal socio-economic losses caused by traffic accidents
 - **(Contextual) Graph Preprocessing**: `multi-view_graph_construction.ipynb`
 - **MG-TAR Model Train-Test Demo**: `example_run.ipynb` 
 
-  
 
 ## Note for Driving Record Data
 - **Digital Tachograph (Driving Log) Data**: _cannot be publicly accessible_ due to non-disclosure agreements
