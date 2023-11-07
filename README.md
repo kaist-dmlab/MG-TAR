@@ -20,7 +20,7 @@ Due to the continuing colossal socio-economic losses caused by traffic accidents
 
 
 ## Note for Driving Record Data
-- **Digital Tachograph (Driving Log) Data**: _cannot be publicly accessible_ 
+- **Digital Tachograph (Driving Log) Data**: _cannot be publicly accessible_ due to non-disclosure agreements
   - For demonstration purpose, we partially provide the aggregated number of _classified_ dangerous driving cases in the `datasets` folder. 
   - If you are interested in the original data, there is a sample file provided [here](https://www.data.go.kr/en/data/15050068/fileData.do) by Korea Transportation Safety Authority.
   
