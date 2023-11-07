@@ -3,6 +3,7 @@
 
 ![MG-TAR](https://github.com/kaist-dmlab/MG-TAR/assets/12752812/d0165fbd-01bc-4b5a-ad61-8bc6f3592a2f)
 
+
 ## Citation
 ```bibtex 
 @article{trirat2023mgtar,
