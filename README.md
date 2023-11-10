@@ -33,3 +33,4 @@ Due to the continuing colossal socio-economic losses caused by traffic accidents
 - **Acknowledgement**
   
    <img src="https://github.com/kaist-dmlab/MG-TAR/assets/12752812/2f3c16e1-d240-466b-93d3-59c472b37fe8"  width="20%" height="20%">
+ 
